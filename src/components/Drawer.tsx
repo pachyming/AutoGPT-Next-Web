@@ -166,7 +166,7 @@ const Drawer = ({
           <DrawerItem
             icon={<FaGithub />}
             text="GitHub"
-            href="https://github.com/Dogtiti/AutoGPT-Next-Web"
+            href="https://github.com"
             target="_blank"
           />
           <DrawerItem
