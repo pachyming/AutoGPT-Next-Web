@@ -1,6 +1,6 @@
 {
-  "name": "AutoGPT-Next-Web",
-  "short_name": "AutoGPT-Next-Web",
+  "name": "AgentGPT-Web",
+  "short_name": "AgentGPT-Web",
   "icons": [
     {
       "src": "/android-chrome-192x192.png",
