@@ -132,30 +132,6 @@ export const SettingsDialog: React.FC<{
     >
       <p>{t("usage")}</p>
       <br />
-      <p
-        className={
-          settings.customModelName === GPT_4
-            ? "rounded-md border-[2px] border-white/10 bg-yellow-300 text-black"
-            : ""
-        }
-      >
-        <FaExclamationCircle className="inline-block" />
-        &nbsp;
-        <Trans i18nKey="gpt4-notice" ns="settings">
-          <b>
-            To use the GPT-4 model, you need to also provide the API key for
-            GPT-4. You can request for it&nbsp;
-            <a
-              href="https://openai.com/waitlist/gpt-4-api"
-              className="text-blue-500"
-            >
-              here
-            </a>
-            . (ChatGPT Plus subscription will not work)
-          </b>
-        </Trans>
-      </p>
-      <br />
       <div className="text-md relative flex-auto p-2 leading-relaxed">
         <Input
           left={
