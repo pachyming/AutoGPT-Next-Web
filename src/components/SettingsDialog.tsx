@@ -207,7 +207,7 @@ export const SettingsDialog: React.FC<{
             NOTE: To get a key, sign up for an OpenAI account and visit the
             following
             <a
-              href="https://platform.openai.com/account/api-keys"
+              href="https://shoping.dzbz555.top/buy/17"
               className="text-blue-500"
             >
               link.
